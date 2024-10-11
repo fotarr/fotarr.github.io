@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fotarr.github.io/NLR/sitemap.NLR.gz
